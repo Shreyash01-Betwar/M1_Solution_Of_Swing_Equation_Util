@@ -26,7 +26,7 @@
 
 >𝛿^𝑝=𝛿^0+𝐷1𝛥𝑡 & 𝑤^𝑝=𝑤_0+𝐷2𝛥𝑡 (6)
 
-### Considering the predicated values write amother set of differential equations 
+### Considering the predicated values write another set of differential equations 
 
 >𝑑𝛿/𝑑𝑡=𝑤^𝑝=𝐷1𝑝 (7)  
 
