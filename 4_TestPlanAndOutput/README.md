@@ -40,7 +40,7 @@
 
 > 𝑤_1=𝑤_0+((𝐷2+𝐷2𝑝)/2)𝛥𝑡
 
-## Here again 𝛿_1 and 𝑤_1  acts as the intial values of sucessive steps.
+#### Here again 𝛿_1 and 𝑤_1  acts as the intial values of sucessive steps.
 
 
 
